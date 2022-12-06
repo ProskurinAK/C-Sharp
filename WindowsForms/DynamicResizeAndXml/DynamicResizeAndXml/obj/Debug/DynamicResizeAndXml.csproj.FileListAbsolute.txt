@@ -1,0 +1,11 @@
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\bin\Debug\DynamicResizeAndXml.exe.config
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\bin\Debug\DynamicResizeAndXml.exe
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\bin\Debug\DynamicResizeAndXml.pdb
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\obj\Debug\DynamicResizeAndXml.csproj.AssemblyReference.cache
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\obj\Debug\DynamicResizeAndXml.MainWindow.resources
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\obj\Debug\DynamicResizeAndXml.Properties.Resources.resources
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\obj\Debug\DynamicResizeAndXml.Workspaces.UForm_WorkForm.resources
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\obj\Debug\DynamicResizeAndXml.csproj.GenerateResource.cache
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\obj\Debug\DynamicResizeAndXml.csproj.CoreCompileInputs.cache
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\obj\Debug\DynamicResizeAndXml.exe
+D:\Progi\C#\WindowsForms\DynamicResizeAndXml\DynamicResizeAndXml\obj\Debug\DynamicResizeAndXml.pdb

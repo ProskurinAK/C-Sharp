@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicResizeAndXml", "DynamicResizeAndXml\DynamicResizeAndXml.csproj", "{1936A664-34CE-418E-955F-42B14ADF0BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1936A664-34CE-418E-955F-42B14ADF0BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1936A664-34CE-418E-955F-42B14ADF0BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1936A664-34CE-418E-955F-42B14ADF0BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1936A664-34CE-418E-955F-42B14ADF0BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB169FB-04A5-4108-A460-04E629116E2F}
+	EndGlobalSection
+EndGlobal
