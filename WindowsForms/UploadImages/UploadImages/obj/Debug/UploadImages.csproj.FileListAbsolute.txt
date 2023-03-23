@@ -1,0 +1,10 @@
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\bin\Debug\UploadImages.exe.config
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\bin\Debug\UploadImages.exe
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\bin\Debug\UploadImages.pdb
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\obj\Debug\UploadImages.csproj.AssemblyReference.cache
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\obj\Debug\UploadImages.Properties.Resources.resources
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\obj\Debug\UploadImages.csproj.GenerateResource.cache
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\obj\Debug\UploadImages.csproj.CoreCompileInputs.cache
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\obj\Debug\UploadImages.exe
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\obj\Debug\UploadImages.pdb
+D:\Progi\C#\WindowsForms\UploadImages\UploadImages\obj\Debug\UploadImages.MainWindow.resources
